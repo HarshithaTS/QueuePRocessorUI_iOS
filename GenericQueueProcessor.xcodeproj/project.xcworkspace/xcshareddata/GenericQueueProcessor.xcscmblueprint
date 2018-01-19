@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8073BE2A71EEB167C68AC6E1D34836FA47048CEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "047E85C2262E3D1380537AB4306AB9C6F628B513" : 0,
+    "8073BE2A71EEB167C68AC6E1D34836FA47048CEF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "788240E9-28ED-4C7B-B017-D5EBA40A7447",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "047E85C2262E3D1380537AB4306AB9C6F628B513" : "GenericQueueProcessor",
+    "8073BE2A71EEB167C68AC6E1D34836FA47048CEF" : "Gss_iOS_QueueProcessorUI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GenericQueueProcessor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GenericQueueProcessor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GlobalSoftSolutions\/GenericQueueProcessor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "047E85C2262E3D1380537AB4306AB9C6F628B513"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GlobalSoftSolutions\/Gss_iOS_QueueProcessorUI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8073BE2A71EEB167C68AC6E1D34836FA47048CEF"
+    }
+  ]
+}
